@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+.profile-container {
+    text-align: center;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    width: 285px;
+    height: auto;
+    margin-bottom: 20px;
+    border: 5px solid black;
+    transition: opacity 0.6s ease-in-out, transform 0.6s ease-in-out;
+}
+
+.profile-picture:hover {
+    transform: scale(1.1);
+}
+
+.profile-picture:not(:hover) {
+    transition-delay: 0.3s;
+}
+
+.skills-section {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.skill {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.skill-image {
+    width: 250px;
+    height: auto;
+    margin-bottom: 40px;
+}
+
+.skill p {
+    font-size: 18px;
+}
+
+.section-title {
+    font-family: "Spectral", serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.subsection-title {
+    font-family: "Spectral", serif;
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: 3.3em;
+    font-weight: bold;
+    font-family: "Spectral", serif;
+}
+
+.section-image {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.description {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.spacer {
+    margin-bottom: 90px;
+}
+
+.skill p {
+    font-size: 23px;
+    margin-top: 5px;
+}
+
+#HoverImage:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease;
+}
+
+.revealUp {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.revealUp.fadeIn {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
+}
+
+:root {
+}
+
+.welcome-text {
+    font-family: "Spectral", serif;
+    text-transform: uppercase;
+    background: 50% 100% / 50% 50% no-repeat
+        radial-gradient(ellipse at bottom, #fff, transparent, transparent);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 9.5vw;
+    font-family: "Source Sans Pro", sans-serif;
+    animation: reveal 3000ms ease-in-out forwards 200ms,
+        glow 2500ms linear infinite 2000ms;
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+@keyframes reveal {
+    80% {
+        letter-spacing: 5px;
+    }
+    100% {
+        background-size: 300% 300%;
+    }
+}
+
+@keyframes glow {
+    40% {
+        text-shadow: 0 0 8px #fff;
+    }
+}
