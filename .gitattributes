@@ -9,3 +9,4 @@ CHANGELOG.md export-ignore
 .styleci.yml export-ignore
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
+public/vd/homepage.mp4 filter=lfs diff=lfs merge=lfs -text
