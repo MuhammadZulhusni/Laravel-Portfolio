@@ -72,7 +72,7 @@
             <p class="revealUp">Bootstrap - Intermediate</p>
         </div>
         <div class="skill">
-            <img src="/img/css.png" alt="css" class="skill-image revealUp" id="HoverImage">
+            <img src="/img/React.png" alt="react" class="skill-image revealUp" id="HoverImage">
             <p class="revealUp">React - Beginner</p>
         </div>
 
