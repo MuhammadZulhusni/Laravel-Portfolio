@@ -21,7 +21,7 @@
     <!-- Video Background -->
     <div class="video-background">
         <video autoplay muted loop>
-            <source src="{{ asset('vd/homepage.mp4') }}" type="video/mp4">
+            <source src="{{ asset('vd/homepageVd.mp4') }}" type="video/mp4">
         </video>
     </div>
     <div class="container mt-4">
