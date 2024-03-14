@@ -166,7 +166,7 @@
             <br>
             <center><img src="/img/project.gif"></center>
             <p>
-                &nbsp;&nbsp;&nbsp;&nbsp;Throughout my computer science diploma and in my free time, I've worked on various projects, including a stock management system, homestay booking system, weather app, task-list application, and book review platform. These projects have allowed me to apply what I've learned in a practical setting and gain valuable hands-on experience in software development. <br><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;Throughout my computer science diploma and in my free time, I've worked on various projects, including a stock management system, homestay booking system, weather app, task-list application, and book review platform. You can go to my github account to see more details about my projects that I have developed. These projects have allowed me to apply what I've learned in a practical setting and gain valuable hands-on experience in web development. <br><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;Upon completing each project, I make sure to deploy it to ensure that it's accessible and usable by others. This deployment process helps me understand the real-world implications of my work and allows me to receive feedback from users, which I use to improve my projects further. <br><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;I'm committed to continually enhancing my programming skills, and one way I do this is by undertaking new projects whenever time permits. By working on diverse projects, I not only expand my knowledge but also strengthen my problem-solving abilities and creativity in software development. 
             </p> 
@@ -175,7 +175,7 @@
 
     <br><br><br>
 
-    <h2 class="revealUp">List of systems and apps</h2> 
+    <!-- <h2 class="revealUp">List of systems and apps</h2> 
     <div class="box-container">
         <div class="box-item">
         <div class="flip-box">
@@ -231,7 +231,7 @@
         </div>
         </div>
         </div>
-    </div>
+    </div> -->
 @endsection
 
 <script src="{{ asset('js/about.js') }}"></script>

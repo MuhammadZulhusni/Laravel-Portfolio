@@ -12,6 +12,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+    <link rel="icon" type="image/jpeg" href="https://www.svgrepo.com/show/493093/person-who-gargles.svg"/>
 </head>
 
 

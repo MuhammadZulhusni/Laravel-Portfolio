@@ -17,7 +17,7 @@
     <div class="profile-container revealUp">
         <img src="/img/myPhoto.jpeg" class="profile-picture">
         <h1 class="heading">Muhammad Zulhusni Bin Rosdan</h1>
-        <p class="description">Final year student at Kolej Professional Mara Beranang</p>
+        <p class="description">Currently collaborating with Assra Digital Sdn Bhd</p>
     </div>
 
     </br>
