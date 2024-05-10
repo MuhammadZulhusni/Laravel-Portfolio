@@ -56,9 +56,6 @@ To run this portfolio website locally, follow these steps:
 
 Once the local server is running, you can explore the portfolio website to view my projects and skills.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Any contributions are welcome!
 
 
 
