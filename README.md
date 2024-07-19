@@ -17,7 +17,7 @@ To run this portfolio website locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:zulhusni2003/Portfolio.git
+    git clone https://github.com/MuhammadZulhusni/Laravel-Portfolio.git
     ```
 
 2. Navigate to the project directory:
